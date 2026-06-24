@@ -3,7 +3,7 @@
 ### Data Analyst | Data Science Enthusiast | Computer Science Engineer
 
 📧 Email: [trivenikammar0@gmail.com](mailto:trivenikammar0@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+🔗 LinkedIn: https://www.linkedin.com/in/triveni-kammar-88b88234a
 💻 GitHub: https://github.com/Triveni-Kammar
 
 ---
@@ -36,7 +36,6 @@
 * CSS3
 * JavaScript (ES6+)
 * Responsive Web Design
-* Bootstrap
 * React.js (Basics)
 
 ### Data Analysis
